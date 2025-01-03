@@ -1,5 +1,5 @@
-title: Merlot theme
-description: Merlot is a theme for GitHub Pages.
-show_downloads: true
+title: Mentor AI
+description: One stop shop to finding AI Mentors - GPT for different official API docs
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
